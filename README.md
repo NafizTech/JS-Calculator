@@ -1,0 +1,2 @@
+# JS-Calculator
+A simple working calculator made with Javascript. Power source ( mains electricity, battery and/or solar cell) Keypad (input device) – consists of keys used to input numbers and function commands ( addition, multiplication, square-root, etc.) Display panel (output device) – displays input numbers, commands and results. ... Processor chip ( microprocessor or central processing unit ). hope you like it!
